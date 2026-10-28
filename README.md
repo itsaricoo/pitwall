@@ -32,5 +32,4 @@ Data: Jolpica F1 API (https://api.jolpi.ca/ergast/f1/), gratis en zonder sleutel
 - Nederlandse GP-namen, landen en uitvalredenen: `gpNl`, `countryNl`, `statusNlMap` bovenin PitwallApp.qml
 
 ## Let op
-- Geen geluid? Dan mist waarschijnlijk QtMultimedia op de Toon; de visuele melding werkt dan nog.
 - Geen data? Controleer of de Toon https naar api.jolpi.ca kan bereiken.
