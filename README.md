@@ -10,13 +10,11 @@ en de lettertjes zijn op Toon 1 iets groter. Net als de andere TSC-apps gebruikt
 - Meldingen vlak voor de race, kwalificatie en sprint: wekt het scherm, toont een meldingsscherm en speelt een geluid
   (vijf startlichten-pieptonen). Elke sessie wordt maar een keer gemeld, ook na een herstart.
 - Instellingen (knop rechtsboven in het hoofdscherm): Nederlandse namen aan/uit, meldingen per type aan/uit,
-  geluid aan/uit, hoe lang vooraf (5/10/15/30/60 minuten) en een testknop
 
 ## Bestanden
 - PitwallApp.qml: logica (MOET <Mapnaam>App.qml heten)
 - PitwallTile.qml, PitwallScreen.qml, PitwallSettingsScreen.qml, PitwallAlertScreen.qml
 - PitwallRow.qml, PitwallTable.qml, PitwallSwitch.qml, PitwallSwitchRow.qml: herbruikbare onderdelen
-- drawables/pitwall.png, sounds/alert.wav
 
 ## Data en opslag
 Data: Jolpica F1 API (https://api.jolpi.ca/ergast/f1/), gratis en zonder sleutel. Elke 30 minuten ververst.
