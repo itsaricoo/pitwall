@@ -29,5 +29,9 @@ Data: Jolpica F1 API (https://api.jolpi.ca/ergast/f1/), gratis en zonder sleutel
 - Teamkleuren: functie `teamColor()` in PitwallApp.qml
 - Nederlandse GP-namen, landen en uitvalredenen: `gpNl`, `countryNl`, `statusNlMap` bovenin PitwallApp.qml
 
+## Foto's
+
+Zie hiervoor de map: docs
+
 ## Let op
 - Geen data? Controleer of de Toon https naar api.jolpi.ca kan bereiken.
